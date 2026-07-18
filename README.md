@@ -1,0 +1,2 @@
+# Assignment-Week-3-----Cybersecurity-Fundamentals-Security-Concepts
+This document is to understand the computer networking basic cybersecurity concepts through both theoretical research and hands-on practice using Kali Linux and explore common network protocols, analyze secure web communication, basic network reconnaissance, investigate DNS records, and information about websites using industry-standard tools.
